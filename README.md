@@ -40,4 +40,4 @@ Atualmente busco aprimorar minhas habilidades em desenvolvimento full-stack e ga
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermetRibas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
- deize maisbonito e moderno
+
