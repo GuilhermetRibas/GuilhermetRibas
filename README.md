@@ -1,6 +1,6 @@
 <h1 align="">Olá, Eu sou o Guilherme</h1>
 
-## Sobre mim
+### Sobre mim
 <p align="">
     Me chamo Guilherme Ribas, tenho 18 anos e sou de Santa Maria, Rio Grande do Sul, Brasil. Sou Técnico em Informática para Internet pelo <a href="https://www.ufsm.br/unidades-universitarias/ctism">CTISM</a> e estou me graduando em Sistemas de Informação na <a href="https://www.ufsm.br">UFSM</a>.
     <p align="">
